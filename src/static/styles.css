@@ -289,7 +289,7 @@ section h3 {
 
 button {
   background-color: var(--primary);
-  color: white;
+  color: var(--primary-text);
   border: none;
   padding: 6px 12px;
   font-size: 0.85rem;
@@ -666,7 +666,7 @@ footer {
 }
 
 .announcement-banner {
-  background-color: #4caf50;
+  background-color: var(--success);
   color: white;
   text-align: center;
   padding: 15px;
